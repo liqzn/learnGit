@@ -3,3 +3,4 @@ Git is free software.
 meeee
 Git is a distributed version contorl system.
 Creating a new branch is quick.
+add muti-file
