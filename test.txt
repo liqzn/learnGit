@@ -1,1 +1,13 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+you are so angry!
+=======
+stash
+>>>>>>> Stashed changes
+=======
+stash
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 branch second modify
